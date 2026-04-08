@@ -88,3 +88,7 @@ uvicorn main:app --reload
 http://127.0.0.1:8000/docs
 ```
 Disclaimer: Este proyecto es de carácter personal y no está afiliado, patrocinado ni respaldado por Riot Games. Todo el desarrollo se ha realizado en local y el proyecto no está desplegado en ningún entorno público. El uso de la API de Riot Games se ha realizado conforme a sus términos de uso para fines de aprendizaje y desarrollo local.
+
+## Legal
+
+Mastery Dashboard isn't endorsed by Riot Games and doesn't reflect the views or opinions of Riot Games or anyone officially involved in producing or managing Riot Games properties. Riot Games, and all associated properties are trademarks or registered trademarks of Riot Games, Inc.
